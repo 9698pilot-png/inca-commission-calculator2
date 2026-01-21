@@ -1,0 +1,2498 @@
+[
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 276.66,
+    "renewal_pct": 70.67000000000002,
+    "total_pct": 347.33000000000004
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 276.66,
+    "renewal_pct": 70.67000000000002,
+    "total_pct": 347.33000000000004
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 276.66,
+    "renewal_pct": 70.67000000000002,
+    "total_pct": 347.33000000000004
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 266.66,
+    "renewal_pct": 68.10999999999996,
+    "total_pct": 334.77
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 266.66,
+    "renewal_pct": 68.10999999999996,
+    "total_pct": 334.77
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 266.66,
+    "renewal_pct": 68.10999999999996,
+    "total_pct": 334.77
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 260.0,
+    "renewal_pct": 66.39999999999998,
+    "total_pct": 326.4
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 260.0,
+    "renewal_pct": 66.39999999999998,
+    "total_pct": 326.4
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 260.0,
+    "renewal_pct": 66.39999999999998,
+    "total_pct": 326.4
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 245.66,
+    "renewal_pct": 62.73999999999998,
+    "total_pct": 308.4
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 245.66,
+    "renewal_pct": 62.73999999999998,
+    "total_pct": 308.4
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 245.66,
+    "renewal_pct": 62.73999999999998,
+    "total_pct": 308.4
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 236.0,
+    "renewal_pct": 60.29000000000002,
+    "total_pct": 296.29
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 236.0,
+    "renewal_pct": 60.29000000000002,
+    "total_pct": 296.29
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 236.0,
+    "renewal_pct": 60.29000000000002,
+    "total_pct": 296.29
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 229.0,
+    "renewal_pct": 58.5,
+    "total_pct": 287.5
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 229.0,
+    "renewal_pct": 58.5,
+    "total_pct": 287.5
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 229.0,
+    "renewal_pct": 58.5,
+    "total_pct": 287.5
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 223.0,
+    "renewal_pct": 56.950000000000045,
+    "total_pct": 279.95000000000005
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 223.0,
+    "renewal_pct": 56.950000000000045,
+    "total_pct": 279.95000000000005
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 223.0,
+    "renewal_pct": 56.950000000000045,
+    "total_pct": 279.95000000000005
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "현대",
+    "first_pct": 210.33,
+    "renewal_pct": 53.72,
+    "total_pct": 264.05
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "현대",
+    "first_pct": 210.33,
+    "renewal_pct": 53.72,
+    "total_pct": 264.05
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "현대",
+    "first_pct": 210.33,
+    "renewal_pct": 53.72,
+    "total_pct": 264.05
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 69.08000000000004,
+    "total_pct": 345.74000000000007
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 69.08000000000004,
+    "total_pct": 345.74000000000007
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 69.08000000000004,
+    "total_pct": 345.74000000000007
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 66.57999999999998,
+    "total_pct": 333.24
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 66.57999999999998,
+    "total_pct": 333.24
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 66.57999999999998,
+    "total_pct": 333.24
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 64.91999999999996,
+    "total_pct": 324.91999999999996
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 64.91999999999996,
+    "total_pct": 324.91999999999996
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 64.91999999999996,
+    "total_pct": 324.91999999999996
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 61.33000000000001,
+    "total_pct": 306.99
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 61.33000000000001,
+    "total_pct": 306.99
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 61.33000000000001,
+    "total_pct": 306.99
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 58.94,
+    "total_pct": 294.94
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 58.94,
+    "total_pct": 294.94
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 58.94,
+    "total_pct": 294.94
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 57.170000000000016,
+    "total_pct": 286.17
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 57.170000000000016,
+    "total_pct": 286.17
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 57.170000000000016,
+    "total_pct": 286.17
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 55.68000000000001,
+    "total_pct": 278.68
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 55.68000000000001,
+    "total_pct": 278.68
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 55.68000000000001,
+    "total_pct": 278.68
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "DB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 52.51999999999995,
+    "total_pct": 262.84999999999997
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "DB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 52.51999999999995,
+    "total_pct": 262.84999999999997
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "DB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 52.51999999999995,
+    "total_pct": 262.84999999999997
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 70.89000000000004,
+    "total_pct": 347.55000000000007
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 70.89000000000004,
+    "total_pct": 347.55000000000007
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 276.66,
+    "renewal_pct": 70.89000000000004,
+    "total_pct": 347.55000000000007
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 68.34000000000003,
+    "total_pct": 335.00000000000006
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 68.34000000000003,
+    "total_pct": 335.00000000000006
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 266.66,
+    "renewal_pct": 68.34000000000003,
+    "total_pct": 335.00000000000006
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 66.62000000000006,
+    "total_pct": 326.62000000000006
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 66.62000000000006,
+    "total_pct": 326.62000000000006
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 260.0,
+    "renewal_pct": 66.62000000000006,
+    "total_pct": 326.62000000000006
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 62.95000000000002,
+    "total_pct": 308.61
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 62.95000000000002,
+    "total_pct": 308.61
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 245.66,
+    "renewal_pct": 62.95000000000002,
+    "total_pct": 308.61
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 60.47999999999996,
+    "total_pct": 296.47999999999996
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 60.47999999999996,
+    "total_pct": 296.47999999999996
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 236.0,
+    "renewal_pct": 60.47999999999996,
+    "total_pct": 296.47999999999996
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 58.680000000000064,
+    "total_pct": 287.68000000000006
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 58.680000000000064,
+    "total_pct": 287.68000000000006
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 229.0,
+    "renewal_pct": 58.680000000000064,
+    "total_pct": 287.68000000000006
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 57.139999999999986,
+    "total_pct": 280.14
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 57.139999999999986,
+    "total_pct": 280.14
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 223.0,
+    "renewal_pct": 57.139999999999986,
+    "total_pct": 280.14
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "KB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 53.900000000000006,
+    "total_pct": 264.23
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "KB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 53.900000000000006,
+    "total_pct": 264.23
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "KB손보",
+    "first_pct": 210.33,
+    "renewal_pct": 53.900000000000006,
+    "total_pct": 264.23
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 276.66,
+    "renewal_pct": 68.29000000000002,
+    "total_pct": 344.95000000000005
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 276.66,
+    "renewal_pct": 68.29000000000002,
+    "total_pct": 344.95000000000005
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 276.66,
+    "renewal_pct": 68.29000000000002,
+    "total_pct": 344.95000000000005
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 266.66,
+    "renewal_pct": 65.82,
+    "total_pct": 332.48
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 266.66,
+    "renewal_pct": 65.82,
+    "total_pct": 332.48
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 266.66,
+    "renewal_pct": 65.82,
+    "total_pct": 332.48
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 260.0,
+    "renewal_pct": 64.18,
+    "total_pct": 324.18
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 260.0,
+    "renewal_pct": 64.18,
+    "total_pct": 324.18
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 260.0,
+    "renewal_pct": 64.18,
+    "total_pct": 324.18
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 245.66,
+    "renewal_pct": 60.640000000000015,
+    "total_pct": 306.3
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 245.66,
+    "renewal_pct": 60.640000000000015,
+    "total_pct": 306.3
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 245.66,
+    "renewal_pct": 60.640000000000015,
+    "total_pct": 306.3
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 236.0,
+    "renewal_pct": 58.25999999999999,
+    "total_pct": 294.26
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 236.0,
+    "renewal_pct": 58.25999999999999,
+    "total_pct": 294.26
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 236.0,
+    "renewal_pct": 58.25999999999999,
+    "total_pct": 294.26
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 229.0,
+    "renewal_pct": 56.51999999999998,
+    "total_pct": 285.52
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 229.0,
+    "renewal_pct": 56.51999999999998,
+    "total_pct": 285.52
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 229.0,
+    "renewal_pct": 56.51999999999998,
+    "total_pct": 285.52
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 223.0,
+    "renewal_pct": 55.05000000000001,
+    "total_pct": 278.05
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 223.0,
+    "renewal_pct": 55.05000000000001,
+    "total_pct": 278.05
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 223.0,
+    "renewal_pct": 55.05000000000001,
+    "total_pct": 278.05
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "메리츠",
+    "first_pct": 210.33,
+    "renewal_pct": 51.91,
+    "total_pct": 262.24
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "메리츠",
+    "first_pct": 210.33,
+    "renewal_pct": 51.91,
+    "total_pct": 262.24
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "메리츠",
+    "first_pct": 210.33,
+    "renewal_pct": 51.91,
+    "total_pct": 262.24
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 276.66,
+    "renewal_pct": 71.21000000000004,
+    "total_pct": 347.87000000000006
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 276.66,
+    "renewal_pct": 71.21000000000004,
+    "total_pct": 347.87000000000006
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 276.66,
+    "renewal_pct": 71.21000000000004,
+    "total_pct": 347.87000000000006
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 266.66,
+    "renewal_pct": 68.63,
+    "total_pct": 335.29
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 266.66,
+    "renewal_pct": 68.63,
+    "total_pct": 335.29
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 266.66,
+    "renewal_pct": 68.63,
+    "total_pct": 335.29
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 260.0,
+    "renewal_pct": 66.91999999999996,
+    "total_pct": 326.91999999999996
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 260.0,
+    "renewal_pct": 66.91999999999996,
+    "total_pct": 326.91999999999996
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 260.0,
+    "renewal_pct": 66.91999999999996,
+    "total_pct": 326.91999999999996
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 245.66,
+    "renewal_pct": 63.22,
+    "total_pct": 308.88
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 245.66,
+    "renewal_pct": 63.22,
+    "total_pct": 308.88
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 245.66,
+    "renewal_pct": 63.22,
+    "total_pct": 308.88
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 236.0,
+    "renewal_pct": 60.75,
+    "total_pct": 296.75
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 236.0,
+    "renewal_pct": 60.75,
+    "total_pct": 296.75
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 236.0,
+    "renewal_pct": 60.75,
+    "total_pct": 296.75
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 229.0,
+    "renewal_pct": 58.940000000000055,
+    "total_pct": 287.94000000000005
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 229.0,
+    "renewal_pct": 58.940000000000055,
+    "total_pct": 287.94000000000005
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 229.0,
+    "renewal_pct": 58.940000000000055,
+    "total_pct": 287.94000000000005
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 223.0,
+    "renewal_pct": 57.389999999999986,
+    "total_pct": 280.39
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 223.0,
+    "renewal_pct": 57.389999999999986,
+    "total_pct": 280.39
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 223.0,
+    "renewal_pct": 57.389999999999986,
+    "total_pct": 280.39
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "한화",
+    "first_pct": 210.33,
+    "renewal_pct": 54.13999999999996,
+    "total_pct": 264.46999999999997
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "한화",
+    "first_pct": 210.33,
+    "renewal_pct": 54.13999999999996,
+    "total_pct": 264.46999999999997
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "한화",
+    "first_pct": 210.33,
+    "renewal_pct": 54.13999999999996,
+    "total_pct": 264.46999999999997
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 276.66,
+    "renewal_pct": 68.33999999999997,
+    "total_pct": 345.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 276.66,
+    "renewal_pct": 68.33999999999997,
+    "total_pct": 345.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 276.66,
+    "renewal_pct": 68.33999999999997,
+    "total_pct": 345.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 266.66,
+    "renewal_pct": 65.87,
+    "total_pct": 332.53000000000003
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 266.66,
+    "renewal_pct": 65.87,
+    "total_pct": 332.53000000000003
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 266.66,
+    "renewal_pct": 65.87,
+    "total_pct": 332.53000000000003
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 260.0,
+    "renewal_pct": 64.23000000000002,
+    "total_pct": 324.23
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 260.0,
+    "renewal_pct": 64.23000000000002,
+    "total_pct": 324.23
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 260.0,
+    "renewal_pct": 64.23000000000002,
+    "total_pct": 324.23
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 245.66,
+    "renewal_pct": 60.680000000000035,
+    "total_pct": 306.34000000000003
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 245.66,
+    "renewal_pct": 60.680000000000035,
+    "total_pct": 306.34000000000003
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 245.66,
+    "renewal_pct": 60.680000000000035,
+    "total_pct": 306.34000000000003
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 236.0,
+    "renewal_pct": 58.30000000000001,
+    "total_pct": 294.3
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 236.0,
+    "renewal_pct": 58.30000000000001,
+    "total_pct": 294.3
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 236.0,
+    "renewal_pct": 58.30000000000001,
+    "total_pct": 294.3
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 229.0,
+    "renewal_pct": 56.56,
+    "total_pct": 285.56
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 229.0,
+    "renewal_pct": 56.56,
+    "total_pct": 285.56
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 229.0,
+    "renewal_pct": 56.56,
+    "total_pct": 285.56
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 223.0,
+    "renewal_pct": 55.08000000000004,
+    "total_pct": 278.08000000000004
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 223.0,
+    "renewal_pct": 55.08000000000004,
+    "total_pct": 278.08000000000004
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 223.0,
+    "renewal_pct": 55.08000000000004,
+    "total_pct": 278.08000000000004
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "롯데",
+    "first_pct": 210.33,
+    "renewal_pct": 51.96000000000001,
+    "total_pct": 262.29
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "롯데",
+    "first_pct": 210.33,
+    "renewal_pct": 51.96000000000001,
+    "total_pct": 262.29
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "롯데",
+    "first_pct": 210.33,
+    "renewal_pct": 51.96000000000001,
+    "total_pct": 262.29
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 276.66,
+    "renewal_pct": 76.68999999999994,
+    "total_pct": 353.34999999999997
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 99.6,
+    "renewal_pct": 73.04000000000002,
+    "total_pct": 172.64000000000001
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 99.6,
+    "renewal_pct": 73.04000000000002,
+    "total_pct": 172.64000000000001
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 266.66,
+    "renewal_pct": 73.91000000000003,
+    "total_pct": 340.57000000000005
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 96.0,
+    "renewal_pct": 70.4,
+    "total_pct": 166.4
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 96.0,
+    "renewal_pct": 70.4,
+    "total_pct": 166.4
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 260.0,
+    "renewal_pct": 72.07000000000005,
+    "total_pct": 332.07000000000005
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 93.6,
+    "renewal_pct": 68.64000000000001,
+    "total_pct": 162.24
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 93.6,
+    "renewal_pct": 68.64000000000001,
+    "total_pct": 162.24
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 245.66,
+    "renewal_pct": 68.09,
+    "total_pct": 313.75
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 88.44,
+    "renewal_pct": 64.85,
+    "total_pct": 153.29
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 88.44,
+    "renewal_pct": 64.85,
+    "total_pct": 153.29
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 236.0,
+    "renewal_pct": 65.41000000000003,
+    "total_pct": 301.41
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 84.96,
+    "renewal_pct": 62.3,
+    "total_pct": 147.26
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 84.96,
+    "renewal_pct": 62.3,
+    "total_pct": 147.26
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 229.0,
+    "renewal_pct": 63.46999999999997,
+    "total_pct": 292.46999999999997
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 82.44,
+    "renewal_pct": 60.44999999999999,
+    "total_pct": 142.89
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 82.44,
+    "renewal_pct": 60.44999999999999,
+    "total_pct": 142.89
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 223.0,
+    "renewal_pct": 61.81,
+    "total_pct": 284.81
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 80.28,
+    "renewal_pct": 58.870000000000005,
+    "total_pct": 139.15
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 80.28,
+    "renewal_pct": 58.870000000000005,
+    "total_pct": 139.15
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "흥국",
+    "first_pct": 210.33,
+    "renewal_pct": 58.28999999999999,
+    "total_pct": 268.62
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "흥국",
+    "first_pct": 75.72,
+    "renewal_pct": 55.52000000000001,
+    "total_pct": 131.24
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "흥국",
+    "first_pct": 75.72,
+    "renewal_pct": 55.52000000000001,
+    "total_pct": 131.24
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 276.66,
+    "renewal_pct": 82.97999999999996,
+    "total_pct": 359.64
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 212.92,
+    "renewal_pct": 149.85000000000005,
+    "total_pct": 362.77000000000004
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 23.24,
+    "renewal_pct": 297.96999999999997,
+    "total_pct": 321.21
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 266.66,
+    "renewal_pct": 79.98000000000002,
+    "total_pct": 346.64000000000004
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 205.23,
+    "renewal_pct": 144.43000000000004,
+    "total_pct": 349.66
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 22.4,
+    "renewal_pct": 287.20000000000005,
+    "total_pct": 309.6
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 260.0,
+    "renewal_pct": 77.98000000000002,
+    "total_pct": 337.98
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 200.1,
+    "renewal_pct": 140.82000000000002,
+    "total_pct": 340.92
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 21.84,
+    "renewal_pct": 280.02000000000004,
+    "total_pct": 301.86
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 245.66,
+    "renewal_pct": 73.68000000000004,
+    "total_pct": 319.34000000000003
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 189.07,
+    "renewal_pct": 133.07,
+    "total_pct": 322.14
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 20.63,
+    "renewal_pct": 264.57,
+    "total_pct": 285.2
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 236.0,
+    "renewal_pct": 70.79000000000002,
+    "total_pct": 306.79
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 181.63,
+    "renewal_pct": 127.82999999999998,
+    "total_pct": 309.46
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 19.82,
+    "renewal_pct": 254.16000000000003,
+    "total_pct": 273.98
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 229.0,
+    "renewal_pct": 68.68,
+    "total_pct": 297.68
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 176.24,
+    "renewal_pct": 124.02999999999997,
+    "total_pct": 300.27
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 19.23,
+    "renewal_pct": 246.62000000000003,
+    "total_pct": 265.85
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 223.0,
+    "renewal_pct": 66.88,
+    "total_pct": 289.88
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 171.62,
+    "renewal_pct": 120.78000000000003,
+    "total_pct": 292.40000000000003
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 18.73,
+    "renewal_pct": 240.16,
+    "total_pct": 258.89
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "삼성",
+    "first_pct": 210.33,
+    "renewal_pct": 63.07000000000002,
+    "total_pct": 273.40000000000003
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "삼성",
+    "first_pct": 161.87,
+    "renewal_pct": 113.93,
+    "total_pct": 275.8
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "삼성",
+    "first_pct": 17.66,
+    "renewal_pct": 226.52,
+    "total_pct": 244.18
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 239.52,
+    "renewal_pct": 137.8,
+    "total_pct": 377.32000000000005
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 230.86,
+    "renewal_pct": 132.81,
+    "total_pct": 363.67
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 225.09,
+    "renewal_pct": 129.48999999999998,
+    "total_pct": 354.58
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 212.68,
+    "renewal_pct": 122.35000000000001,
+    "total_pct": 335.03000000000003
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 204.31,
+    "renewal_pct": 117.52999999999999,
+    "total_pct": 321.84
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 198.25,
+    "renewal_pct": 114.03999999999999,
+    "total_pct": 312.28999999999996
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 193.06,
+    "renewal_pct": 111.06,
+    "total_pct": 304.12
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "AIG손보",
+    "first_pct": 182.09,
+    "renewal_pct": 104.75999999999999,
+    "total_pct": 286.85
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "AIG손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 276.66,
+    "renewal_pct": 75.39999999999998,
+    "total_pct": 352.06
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 23.24,
+    "renewal_pct": 199.2,
+    "total_pct": 222.44
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 23.24,
+    "renewal_pct": 199.2,
+    "total_pct": 222.44
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 266.66,
+    "renewal_pct": 72.68,
+    "total_pct": 339.34000000000003
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 22.4,
+    "renewal_pct": 192.0,
+    "total_pct": 214.4
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 22.4,
+    "renewal_pct": 192.0,
+    "total_pct": 214.4
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 260.0,
+    "renewal_pct": 70.84999999999997,
+    "total_pct": 330.84999999999997
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 21.84,
+    "renewal_pct": 187.2,
+    "total_pct": 209.04
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 21.84,
+    "renewal_pct": 187.2,
+    "total_pct": 209.04
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 245.66,
+    "renewal_pct": 66.94000000000003,
+    "total_pct": 312.6
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 20.63,
+    "renewal_pct": 176.88,
+    "total_pct": 197.51
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 20.63,
+    "renewal_pct": 176.88,
+    "total_pct": 197.51
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 236.0,
+    "renewal_pct": 64.30000000000001,
+    "total_pct": 300.3
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 19.82,
+    "renewal_pct": 169.92000000000002,
+    "total_pct": 189.74
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 19.82,
+    "renewal_pct": 169.92000000000002,
+    "total_pct": 189.74
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 229.0,
+    "renewal_pct": 62.39999999999998,
+    "total_pct": 291.4
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 19.23,
+    "renewal_pct": 164.88000000000002,
+    "total_pct": 184.11
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 19.23,
+    "renewal_pct": 164.88000000000002,
+    "total_pct": 184.11
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 223.0,
+    "renewal_pct": 60.76999999999998,
+    "total_pct": 283.77
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 18.73,
+    "renewal_pct": 160.56000000000003,
+    "total_pct": 179.29000000000002
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 18.73,
+    "renewal_pct": 160.56000000000003,
+    "total_pct": 179.29000000000002
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "MG손보",
+    "first_pct": 210.33,
+    "renewal_pct": 57.32000000000002,
+    "total_pct": 267.65000000000003
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "MG손보",
+    "first_pct": 17.66,
+    "renewal_pct": 151.44,
+    "total_pct": 169.1
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "MG손보",
+    "first_pct": 17.66,
+    "renewal_pct": 151.44,
+    "total_pct": 169.1
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 276.66,
+    "renewal_pct": 72.04000000000008,
+    "total_pct": 348.7000000000001
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 276.66,
+    "renewal_pct": 72.04000000000008,
+    "total_pct": 348.7000000000001
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 266.66,
+    "renewal_pct": 69.43,
+    "total_pct": 336.09000000000003
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 266.66,
+    "renewal_pct": 69.43,
+    "total_pct": 336.09000000000003
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 260.0,
+    "renewal_pct": 67.69999999999999,
+    "total_pct": 327.7
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 260.0,
+    "renewal_pct": 67.69999999999999,
+    "total_pct": 327.7
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 245.66,
+    "renewal_pct": 63.96000000000001,
+    "total_pct": 309.62
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 245.66,
+    "renewal_pct": 63.96000000000001,
+    "total_pct": 309.62
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 236.0,
+    "renewal_pct": 61.43999999999994,
+    "total_pct": 297.43999999999994
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 236.0,
+    "renewal_pct": 61.43999999999994,
+    "total_pct": 297.43999999999994
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 229.0,
+    "renewal_pct": 59.620000000000005,
+    "total_pct": 288.62
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 229.0,
+    "renewal_pct": 59.620000000000005,
+    "total_pct": 288.62
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 223.0,
+    "renewal_pct": 58.06,
+    "total_pct": 281.06
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 223.0,
+    "renewal_pct": 58.06,
+    "total_pct": 281.06
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "농협손보",
+    "first_pct": 210.33,
+    "renewal_pct": 54.77000000000001,
+    "total_pct": 265.1
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "농협손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "농협손보",
+    "first_pct": 210.33,
+    "renewal_pct": 54.77000000000001,
+    "total_pct": 265.1
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 276.66,
+    "renewal_pct": 69.97000000000003,
+    "total_pct": 346.63000000000005
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 266.66,
+    "renewal_pct": 67.46000000000004,
+    "total_pct": 334.12000000000006
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 260.0,
+    "renewal_pct": 65.76000000000005,
+    "total_pct": 325.76000000000005
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 245.66,
+    "renewal_pct": 62.130000000000024,
+    "total_pct": 307.79
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 236.0,
+    "renewal_pct": 59.69999999999999,
+    "total_pct": 295.7
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 229.0,
+    "renewal_pct": 57.91999999999996,
+    "total_pct": 286.91999999999996
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 223.0,
+    "renewal_pct": 56.39999999999998,
+    "total_pct": 279.4
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "하나손보",
+    "first_pct": 210.33,
+    "renewal_pct": 53.20000000000002,
+    "total_pct": 263.53000000000003
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "하나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 276.66,
+    "renewal_pct": 95.69999999999999,
+    "total_pct": 372.36
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "시그니처",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 266.66,
+    "renewal_pct": 92.25,
+    "total_pct": 358.91
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "노블레스",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 260.0,
+    "renewal_pct": 89.94,
+    "total_pct": 349.94
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "VIP",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 245.66,
+    "renewal_pct": 84.96000000000001,
+    "total_pct": 330.62
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "프로",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 236.0,
+    "renewal_pct": 81.63,
+    "total_pct": 317.63
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "우수",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 229.0,
+    "renewal_pct": 79.19999999999999,
+    "total_pct": 308.2
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "표준",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 223.0,
+    "renewal_pct": 77.13,
+    "total_pct": 300.13
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "일반",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "보장",
+    "insurer": "라이나손보",
+    "first_pct": 210.33,
+    "renewal_pct": 72.75,
+    "total_pct": 283.08000000000004
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "연금",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  },
+  {
+    "fa_grade": "도전",
+    "product_group": "저축",
+    "insurer": "라이나손보",
+    "first_pct": 0.0,
+    "renewal_pct": 0.0,
+    "total_pct": 0.0
+  }
+]

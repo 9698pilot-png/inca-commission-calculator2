@@ -1,0 +1,50 @@
+{
+  "메리츠": {
+    "direct_pct": 80.0,
+    "extra_pct": 400.0
+  },
+  "DB": {
+    "direct_pct": 80.0,
+    "extra_pct": 400.0
+  },
+  "현대": {
+    "direct_pct": 100.0,
+    "extra_pct": null
+  },
+  "KB": {
+    "direct_pct": 100.0,
+    "extra_pct": null
+  },
+  "삼성": {
+    "direct_pct": 100.0,
+    "extra_pct": null
+  },
+  "한화": {
+    "direct_pct": 100.0,
+    "extra_pct": 80.0
+  },
+  "롯데": {
+    "direct_pct": 100.0,
+    "extra_pct": null
+  },
+  "흥국": {
+    "direct_pct": 300.0,
+    "extra_pct": null
+  },
+  "하나": {
+    "direct_pct": 150.0,
+    "extra_pct": null
+  },
+  "농협": {
+    "direct_pct": 100.0,
+    "extra_pct": null
+  },
+  "AIG": {
+    "direct_pct": null,
+    "extra_pct": null
+  },
+  "라이나": {
+    "direct_pct": null,
+    "extra_pct": null
+  }
+}
